@@ -1,0 +1,403 @@
+{
+  "courses": [
+    {
+      "title": "Human Skills in the Age of AI",
+      "category": "AI & Technology",
+      "duration": "4-6 hours",
+      "key_skills": [
+        "Adaptability mindset",
+        "Enhanced communication",
+        "AI-leveraged critical thinking",
+        "Creative innovation"
+      ],
+      "target_users": "All professionals adapting to AI-driven workplaces",
+      "prerequisites": "None (beginner-friendly)",
+      "certificate": "Human Skills in the Age of AI Professional Certificate",
+      "career_impact": "Essential foundation for any AI-integrated role",
+      "recommendation_triggers": [
+        "User indicates concern about AI replacing their job",
+        "Manager seeking to lead AI-adapted teams",
+        "Professional in traditional industry facing AI disruption"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Career Essentials in Generative AI",
+      "category": "AI & Technology",
+      "duration": "3-4 hours",
+      "key_skills": [
+        "AI model understanding",
+        "Ethical AI use",
+        "Impact assessment",
+        "Microsoft 365 Copilot basics"
+      ],
+      "target_users": "Professionals new to generative AI",
+      "prerequisites": "Basic computer literacy",
+      "certificate": "Career Essentials in Generative AI Professional Certificate",
+      "career_impact": "Immediate productivity gains across all roles",
+      "recommendation_triggers": [
+        "First-time AI user",
+        "Professional seeking quick AI integration",
+        "Entry-level employee in modern workplace"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Microsoft Copilot for Productivity",
+      "category": "AI & Technology",
+      "duration": "5-7 hours",
+      "key_skills": [
+        "Workflow automation",
+        "AI-powered collaboration",
+        "Prompt engineering",
+        "Document creation"
+      ],
+      "target_users": "Microsoft 365 users",
+      "prerequisites": "Experience with Word, Excel, PowerPoint, Teams",
+      "certificate": "Microsoft Copilot for Productivity Professional Certificate",
+      "career_impact": "25-40% productivity increase in knowledge work",
+      "recommendation_triggers": [
+        "Heavy Microsoft 365 user",
+        "Knowledge worker seeking efficiency",
+        "Remote/hybrid worker"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Microsoft Azure AI Essentials",
+      "category": "AI & Technology",
+      "duration": "8-12 hours",
+      "key_skills": [
+        "Machine learning fundamentals",
+        "Azure AI services",
+        "NLP",
+        "Computer vision"
+      ],
+      "target_users": "Tech professionals, business leaders",
+      "prerequisites": "Basic cloud computing knowledge",
+      "certificate": "Microsoft Azure AI Essentials Professional Certificate",
+      "career_impact": "Technical foundation for AI implementation roles",
+      "recommendation_triggers": [
+        "IT professional",
+        "Technical manager",
+        "Developer entering AI field"
+      ],
+      "url": ""
+    },
+    {
+      "title": "AI for Organizational Leaders",
+      "category": "Leadership",
+      "duration": "6-8 hours",
+      "key_skills": [
+        "AI strategy development",
+        "Responsible AI practices",
+        "Organizational change management"
+      ],
+      "target_users": "Senior executives, organizational leaders",
+      "prerequisites": "Leadership experience",
+      "certificate": "AI for Organizational Leaders Professional Certificate",
+      "career_impact": "Strategic competitive advantage through AI adoption",
+      "recommendation_triggers": [
+        "C-suite executive",
+        "Department head",
+        "Transformation leader"
+      ],
+      "url": "https://www.linkedin.com/learning/paths/ai-for-organizational-leaders-by-microsoft-and-linkedin"
+    },
+    {
+      "title": "AI for Managers",
+      "category": "Leadership",
+      "duration": "4-6 hours",
+      "key_skills": [
+        "AI-enhanced management",
+        "Career coaching with AI",
+        "Responsible AI practices"
+      ],
+      "target_users": "Managers at all levels",
+      "prerequisites": "Management experience",
+      "certificate": "AI for Managers Professional Certificate",
+      "career_impact": "Enhanced team leadership in AI-enabled workplace",
+      "recommendation_triggers": [
+        "Team manager",
+        "Project leader",
+        "People manager"
+      ],
+      "url": "https://www.linkedin.com/learning/paths/ai-for-managers-by-microsoft-and-linkedin"
+    },
+    {
+      "title": "Microsoft Security Essentials",
+      "category": "Cybersecurity",
+      "duration": "12-16 hours",
+      "key_skills": [
+        "Zero trust architecture",
+        "Identity management",
+        "Threat detection",
+        "Microsoft security tools"
+      ],
+      "target_users": "Cybersecurity career starters",
+      "prerequisites": "Basic IT knowledge",
+      "certificate": "Microsoft Security Essentials Professional Certificate",
+      "career_impact": "Entry point to $80K+ cybersecurity careers",
+      "recommendation_triggers": [
+        "IT professional seeking specialization",
+        "Career changer interested in security",
+        "Professional in regulated industry"
+      ],
+      "url": "https://www.linkedin.com/learning/paths/microsoft-security-essentials-professional-certificate-by-microsoft-and-linkedin"
+    },
+    {
+      "title": "Career Essentials in Cybersecurity",
+      "category": "Cybersecurity",
+      "duration": "6-8 hours",
+      "key_skills": [
+        "Security fundamentals",
+        "Threat landscape",
+        "Terminology fluency"
+      ],
+      "target_users": "Complete beginners to cybersecurity",
+      "prerequisites": "None",
+      "certificate": "Career Essentials in Cybersecurity Professional Certificate",
+      "career_impact": "Foundation for cybersecurity career transition",
+      "recommendation_triggers": [
+        "Non-technical professional seeking tech career",
+        "Recent graduate",
+        "Professional in declining industry"
+      ],
+      "url": "https://www.linkedin.com/learning/paths/career-essentials-in-cybersecurity-by-microsoft-and-linkedin?u=104"
+    },
+    {
+      "title": "Career Essentials in Sustainable Tech",
+      "category": "Cybersecurity",
+      "duration": "4-6 hours",
+      "key_skills": [
+        "Sustainability concepts",
+        "Green innovation",
+        "Cloud sustainability"
+      ],
+      "target_users": "Sustainability-focused professionals",
+      "prerequisites": "Basic technology understanding",
+      "certificate": "Career Essentials in Sustainable Tech Professional Certificate",
+      "career_impact": "Access to growing ESG and sustainability roles",
+      "recommendation_triggers": [
+        "Professional passionate about sustainability",
+        "Corporate ESG role seeker",
+        "Green technology entrepreneur"
+      ],
+      "url": "https://www.linkedin.com/learning/paths/career-essentials-in-sustainable-tech-by-microsoft-and-linkedin?u=104"
+    },
+    {
+      "title": "Career Essentials in Data Analysis",
+      "category": "Business",
+      "duration": "10-14 hours",
+      "key_skills": [
+        "Data cleaning",
+        "SQL queries",
+        "Visualization",
+        "Statistical analysis"
+      ],
+      "target_users": "Aspiring data analysts",
+      "prerequisites": "Basic Excel knowledge",
+      "certificate": "Career Essentials in Data Analysis Professional Certificate",
+      "career_impact": "Entry to $60K+ data analyst positions",
+      "recommendation_triggers": [
+        "Excel power user",
+        "Professional with analytical mindset",
+        "Career changer from finance/operations"
+      ],
+      "url": "https://www.linkedin.com/learning/paths/career-essentials-in-data-analysis"
+    },
+    {
+      "title": "Career Essentials in Project Management",
+      "category": "Business",
+      "duration": "8-12 hours",
+      "key_skills": [
+        "Scheduling",
+        "Budgeting",
+        "Stakeholder management",
+        "Risk assessment"
+      ],
+      "target_users": "Aspiring project managers",
+      "prerequisites": "Work experience in collaborative environment",
+      "certificate": "Career Essentials in Project Management Professional Certificate",
+      "career_impact": "$75K+ project management career foundation",
+      "recommendation_triggers": [
+        "Team coordinator",
+        "Detail-oriented professional",
+        "Cross-functional collaborator"
+      ],
+      "url": "https://www.linkedin.com/learning/paths/career-essentials-in-project-management"
+    },
+    {
+      "title": "Career Essentials in Business Analysis",
+      "category": "Business",
+      "duration": "6-10 hours",
+      "key_skills": [
+        "Requirements gathering",
+        "Agile principles",
+        "Data science basics"
+      ],
+      "target_users": "Business analysis professionals",
+      "prerequisites": "Business process understanding",
+      "certificate": "Career Essentials in Business Analysis Professional Certificate",
+      "career_impact": "Bridge between business and technology roles",
+      "recommendation_triggers": [
+        "Business process expert",
+        "Problem-solving oriented professional",
+        "Technology-business liaison"
+      ],
+      "url": "https://www.linkedin.com/learning/paths/career-essentials-in-business-analysis"
+    },
+    {
+      "title": "Career Essentials in Software Development",
+      "category": "Business",
+      "duration": "12-16 hours",
+      "key_skills": [
+        "Programming fundamentals",
+        "Debugging",
+        "Code collaboration"
+      ],
+      "target_users": "Aspiring developers",
+      "prerequisites": "Logical thinking ability",
+      "certificate": "Career Essentials in Software Development Professional Certificate",
+      "career_impact": "Foundation for $70K+ development careers",
+      "recommendation_triggers": [
+        "STEM background professional",
+        "Problem-solving enthusiast",
+        "Tech career changer"
+      ],
+      "url": "https://www.linkedin.com/learning/paths/career-essentials-in-software-development"
+    },
+    {
+      "title": "Career Essentials in System Administration",
+      "category": "Business",
+      "duration": "10-14 hours",
+      "key_skills": [
+        "Server management",
+        "Networking",
+        "Cloud administration",
+        "Security"
+      ],
+      "target_users": "IT infrastructure professionals",
+      "prerequisites": "Basic computer knowledge",
+      "certificate": "Career Essentials in System Administration Professional Certificate",
+      "career_impact": "IT infrastructure career foundation",
+      "recommendation_triggers": [
+        "IT support professional seeking advancement",
+        "Technical aptitude with interest in infrastructure",
+        "Operations professional"
+      ],
+      "url": "https://www.linkedin.com/learning/career-essentials-in-system-administration/start-your-sysadmin-journey?u=0"
+    },
+    {
+      "title": "Career Essentials in Administrative Professional",
+      "category": "Foundational Skills",
+      "duration": "6-8 hours",
+      "key_skills": [
+        "Communication",
+        "Time management",
+        "Software proficiency"
+      ],
+      "target_users": "Administrative role seekers",
+      "prerequisites": "Basic office experience",
+      "certificate": "Career Essentials in Administrative Assistance Professional Certificate",
+      "career_impact": "Professional administrative career foundation",
+      "recommendation_triggers": [
+        "Entry-level professional",
+        "Career returner",
+        "Organizational skills enthusiast"
+      ],
+      "url": "https://www.linkedin.com/learning/paths/career-essentials-in-administration"
+    },
+    {
+      "title": "Digital Literacy and Productivity",
+      "category": "Foundational Skills",
+      "duration": "4-6 hours",
+      "key_skills": [
+        "Computer basics",
+        "Online safety",
+        "Microsoft Office fundamentals"
+      ],
+      "target_users": "All professionals needing basic digital skills",
+      "prerequisites": "None",
+      "certificate": "",
+      "career_impact": "Essential baseline for modern workplace",
+      "recommendation_triggers": [
+        "Limited computer experience",
+        "Career returner after extended break",
+        "Traditional industry professional"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Soft Skills",
+      "category": "Foundational Skills",
+      "duration": "6-8 hours",
+      "key_skills": [
+        "Emotional intelligence",
+        "Communication",
+        "Collaboration",
+        "Critical thinking"
+      ],
+      "target_users": "All professionals",
+      "prerequisites": "None",
+      "certificate": "",
+      "career_impact": "Universal career advancement foundation",
+      "recommendation_triggers": [
+        "New manager",
+        "Professional development focus",
+        "Career plateau situation"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Entrepreneurship",
+      "category": "Business",
+      "duration": "8-10 hours",
+      "key_skills": [
+        "Business planning",
+        "Pitching",
+        "Capital raising",
+        "Marketing"
+      ],
+      "target_users": "Entrepreneurs, small business owners",
+      "prerequisites": "Business interest",
+      "certificate": "",
+      "career_impact": "Foundation for business ownership",
+      "recommendation_triggers": [
+        "Side business interest",
+        "Corporate professional seeking independence",
+        "Innovation-focused individual"
+      ],
+      "url": "https://www.linkedin.com/learning/paths/career-essentials-in-entrepreneurship"
+    }
+  ],
+  "categories": {
+    "AI & Technology": {
+      "description": "Courses focused on artificial intelligence, machine learning, and modern technology skills",
+      "course_count": 4
+    },
+    "Cybersecurity": {
+      "description": "Security-focused courses for protecting digital assets and systems",
+      "course_count": 3
+    },
+    "Business": {
+      "description": "Professional business skills and career-focused development",
+      "course_count": 7
+    },
+    "Leadership": {
+      "description": "Management and leadership development courses",
+      "course_count": 2
+    },
+    "Foundational Skills": {
+      "description": "Basic skills essential for workplace success",
+      "course_count": 3
+    }
+  },
+  "metadata": {
+    "total_courses": 19,
+    "source": "LinkedIn Learning AI Copilot Knowledge Base",
+    "partnership": "Microsoft and LinkedIn collaboration",
+    "access": "Free through 2025",
+    "impact": "80+ million learners assisted since June 2020"
+  }
+}
