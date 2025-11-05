@@ -1,0 +1,90 @@
+{
+  "title": "MBTI Personality Assessment",
+  "description": "A comprehensive Myers-Briggs Type Indicator assessment to determine your personality type across four dimensions",
+  "estimated_time": "15-20 minutes",
+  "instructions": {
+    "general": "This assessment consists of 64 questions designed to identify your personality preferences. There are no right or wrong answers - choose the response that best describes your natural tendencies.",
+    "format": "Each question has multiple choice options. Select the response that feels most natural to you in most situations.",
+    "scoring": "Your responses will be scored across four dimensions: Extraversion/Introversion (E/I), Sensing/Intuition (S/N), Thinking/Feeling (T/F), and Judging/Perceiving (J/P). Your dominant preferences will determine your personality type.",
+    "types": "Your final type will be a combination of your preferences: 16 personality types (e.g., ENFP, ISTJ, etc.)"
+  },
+  "dimensions": {
+    "EI": {
+      "name": "Extraversion vs Introversion",
+      "description": "How you direct and receive energy. Extraverts gain energy from external interaction, while Introverts gain energy from internal reflection.",
+      "high_preference": "Extraversion",
+      "low_preference": "Introversion"
+    },
+    "SN": {
+      "name": "Sensing vs Intuition", 
+      "description": "How you gather and process information. Sensing types prefer concrete, factual information, while Intuitive types prefer abstract concepts and possibilities.",
+      "high_preference": "Sensing",
+      "low_preference": "Intuition"
+    },
+    "TF": {
+      "name": "Thinking vs Feeling",
+      "description": "How you make decisions. Thinking types focus on logical analysis and objective criteria, while Feeling types focus on values and impact on people.",
+      "high_preference": "Thinking",
+      "low_preference": "Feeling"
+    },
+    "JP": {
+      "name": "Judging vs Perceiving",
+      "description": "How you approach the outer world. Judging types prefer structure, plans, and closure, while Perceiving types prefer flexibility, spontaneity, and keeping options open.",
+      "high_preference": "Judging",
+      "low_preference": "Perceiving"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "dimension": "EI",
+      "question": "In social situations, I typically:",
+      "options": [
+        {"text": "Seek out conversations and engage with many people", "value": "E"},
+        {"text": "Prefer deeper conversations with a few close friends", "value": "I"}
+      ]
+    },
+    {
+      "id": 2,
+      "dimension": "SN",
+      "question": "When learning something new, I prefer to:",
+      "options": [
+        {"text": "Start with practical examples and step-by-step details", "value": "S"},
+        {"text": "Understand the big picture and underlying concepts first", "value": "N"}
+      ]
+    },
+    {
+      "id": 3,
+      "dimension": "TF",
+      "question": "When making decisions, I primarily consider:",
+      "options": [
+        {"text": "Logic, facts, and objective analysis", "value": "T"},
+        {"text": "Values, relationships, and personal impact", "value": "F"}
+      ]
+    },
+    {
+      "id": 4,
+      "dimension": "JP",
+      "question": "My approach to deadlines is:",
+      "options": [
+        {"text": "I prefer to complete tasks early and stick to my schedule", "value": "J"},
+        {"text": "I work best under pressure and prefer to keep options open", "value": "P"}
+      ]
+    }
+  ],
+  "scoring": {
+    "description": "Each answer is scored based on the selected value. Tally the responses for each dimension to determine your personality type.",
+    "dimensions": {
+      "EI": {"E": 0, "I": 0},
+      "SN": {"S": 0, "N": 0},
+      "TF": {"T": 0, "F": 0},
+      "JP": {"J": 0, "P": 0}
+    },
+    "interpretation": {
+      "EI": "If E > I: Extraversion, If I > E: Introversion",
+      "SN": "If S > N: Sensing, If N > S: Intuition", 
+      "TF": "If T > F: Thinking, If F > T: Feeling",
+      "JP": "If J > P: Judging, If P > J: Perceiving"
+    }
+  }
+}
